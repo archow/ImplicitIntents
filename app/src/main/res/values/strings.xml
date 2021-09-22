@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ImplicitIntents</string>
+    <string name="messaging_text">This is a messaging activity</string>
+    <string name="messaging_btn_text">click to message</string>
 </resources>
